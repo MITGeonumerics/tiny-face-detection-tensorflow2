@@ -1,4 +1,8 @@
+# ignore data files
 /data/wider_face_split/
 /data/WIDER_train/
 /data/WIDER_val/
+/data/WIDER_test/
+
+# ignore tensorflow logs
 /logs
